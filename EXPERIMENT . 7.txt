@@ -1,0 +1,71 @@
+Enter the value of N: 5
+
+Solution:
+Q . . . . 
+. . Q . . 
+. . . . Q 
+. Q . . . 
+. . . Q . 
+
+Solution:
+Q . . . . 
+. . . Q . 
+. Q . . . 
+. . . . Q 
+. . Q . . 
+
+Solution:
+. Q . . . 
+. . . Q . 
+Q . . . . 
+. . Q . . 
+. . . . Q 
+
+Solution:
+. Q . . . 
+. . . . Q 
+. . Q . . 
+Q . . . . 
+. . . Q . 
+
+Solution:
+. . Q . . 
+Q . . . . 
+. . . Q . 
+. Q . . . 
+. . . . Q 
+
+Solution:
+. . Q . . 
+. . . . Q 
+. Q . . . 
+. . . Q . 
+Q . . . . 
+
+Solution:
+. . . Q . 
+Q . . . . 
+. . Q . . 
+. . . . Q 
+. Q . . . 
+
+Solution:
+. . . Q . 
+. Q . . . 
+. . . . Q 
+. . Q . . 
+Q . . . . 
+
+Solution:
+. . . . Q 
+. Q . . . 
+. . . Q . 
+Q . . . . 
+. . Q . . 
+
+Solution:
+. . . . Q 
+. . Q . . 
+Q . . . . 
+. . . Q . 
+. Q . . . 

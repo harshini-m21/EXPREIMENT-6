@@ -1,0 +1,13 @@
+Enter the number of matrices: 4
+Enter the dimensions:
+20 30 40 11 44
+
+Cost Table (M):
+
+             1       2       3       4
+    1        0   24000   19800   29480
+    2        -       0   13200   27720
+    3        -       -       0   19360
+    4        -       -       -       0
+
+Minimum Cost = 29480
