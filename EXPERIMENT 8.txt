@@ -1,0 +1,10 @@
+5-City TSP - Cost Matrix:
+         A     B     C     D     E
+   A   INF    10     8     9     7
+   B    10   INF    10     5     6
+   C     8    10   INF     8     9
+   D     9     5     8   INF     6
+   E     7     6     9     6   INF
+-----------------------------------
+Brute Force Result  : Cost = 34 | Path = A -> C -> D -> B -> E -> A
+Branch & Bound Result: Cost = 34 | Path = A -> C -> D -> B -> E -> A
