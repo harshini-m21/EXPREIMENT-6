@@ -1,0 +1,20 @@
+Items   : [4, 8, 1, 4, 2, 1, 7, 6]
+Capacity: 10
+--------------------------------------------------
+First Fit (FF)            : 4 Bins
+   Bin 1: [4, 1, 4, 1] (Remaining: 0)
+   Bin 2: [8, 2] (Remaining: 0)
+   Bin 3: [7] (Remaining: 3)
+   Bin 4: [6] (Remaining: 4)
+--------------------------------------------------
+First Fit Decreasing (FFD): 4 Bins
+   Bin 1: [8, 2] (Remaining: 0)
+   Bin 2: [7, 1, 1] (Remaining: 1)
+   Bin 3: [6, 4] (Remaining: 0)
+   Bin 4: [4] (Remaining: 6)
+--------------------------------------------------
+Best Fit Decreasing (BFD) : 4 Bins
+   Bin 1: [8, 2] (Remaining: 0)
+   Bin 2: [7, 1, 1] (Remaining: 1)
+   Bin 3: [6, 4] (Remaining: 0)
+   Bin 4: [4] (Remaining: 6)
